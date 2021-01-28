@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Using Docker as the Deployment Tool in CI/CD Pipeline!! </h2>
+<h2>CI/CD Pipeline Using bothe the Ansible and Dokcer..... </h2>
 </body>
 </html>
